@@ -1,0 +1,14 @@
+bin\Debug\en2d.exe
+bin\Debug\en2d.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\en2d.exe
+obj\Debug\en2d.pdb
+obj\Debug\en2d.MainForm.resources
+obj\Debug\en2d.csproj.GenerateResource.Cache
+bin\Release\en2d.exe
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\en2d.MainForm.resources
+obj\Release\en2d.csproj.GenerateResource.Cache
+obj\Release\en2d.exe
+obj\Release\en2d.FormSettings.resources
+obj\Release\en2d.BGForm.resources
